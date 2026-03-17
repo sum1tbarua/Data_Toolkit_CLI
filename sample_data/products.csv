@@ -1,0 +1,6 @@
+id,product,category,price,stock
+1,Laptop,Electronics,1200,10
+2,Phone,Electronics,800,25
+3,Tablet,Electronics,600,15
+4,Chair,Furniture,150,40
+5,Desk,Furniture,300,20

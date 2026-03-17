@@ -1,0 +1,9 @@
+id,customer,product,amount,region
+1,Alice,Laptop,1200,North
+2,Bob,Phone,800,South
+3,Charlie,Tablet,600,West
+4,Alice,Phone,900,North
+5,David,Laptop,1500,West
+6,Eve,Tablet,700,South
+7,Bob,Laptop,1100,South
+8,Alice,Tablet,650,North
